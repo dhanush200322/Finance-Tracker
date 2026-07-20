@@ -308,3 +308,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Dhanush AV**
 
 - 💻 **GitHub:** [https://github.com/dhanush200322](https://github.com/dhanush200322)
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/dhanush-av-618271378/](https://www.linkedin.com/in/dhanush-av-618271378/)
+- 🌐 **Portfolio:** [https://portfoilo22-chi.vercel.app/](https://portfoilo22-chi.vercel.app/)
+
+
