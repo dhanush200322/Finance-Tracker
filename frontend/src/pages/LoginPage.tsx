@@ -28,7 +28,20 @@ export const LoginPage = () => {
       login(res.data.accessToken, res.data.user);
       toast.success('Welcome back!');
     } catch (err: any) {
-      toast.error(err.response?.data?.message || 'Invalid credentials');
+      const msg = err.response?.data?.message || 'Invalid credentials';
+      if (msg === 'Kindly create an account to access') {
+        toast(msg, {
+          icon: '👋',
+          style: {
+            background: '#F0FDF4',
+            color: '#15803D',
+            border: '1px solid #BBF7D0',
+            fontWeight: '500'
+          }
+        });
+      } else {
+        toast.error(msg);
+      }
     } finally {
       setIsLoading(false);
     }
