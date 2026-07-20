@@ -20,10 +20,8 @@
 ## 🌐 Live Links
 
 - 💻 **GitHub Repository:** [https://github.com/dhanush200322/Finance-Tracker](https://github.com/dhanush200322/Finance-Tracker)
-- 🚀 **Live Demo (Vercel):** [https://your-project.vercel.app](https://your-project.vercel.app)
-- ⚙️ **Backend API (Render):** [https://your-backend.onrender.com](https://your-backend.onrender.com)
-
-*(Replace placeholders with actual deployed links)*
+- 🚀 **Live Demo (Vercel):** [https://finance-tracker-gules-nu.vercel.app](https://finance-tracker-gules-nu.vercel.app)
+- ⚙️ **Backend API (Render):** [https://finance-tracker-08ws.onrender.com](https://finance-tracker-08ws.onrender.com)
 
 ---
 
