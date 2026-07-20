@@ -19,11 +19,9 @@
 
 ## 🌐 Live Links
 
-- 💻 **GitHub Repository:** [https://github.com/dhanush200322/finance-portfolio-tracker](https://github.com/dhanush200322/finance-portfolio-tracker)
+- 💻 **GitHub Repository:** [https://github.com/dhanush200322/Finance-Tracker](https://github.com/dhanush200322/Finance-Tracker)
 - 🚀 **Live Demo (Vercel):** [https://your-project.vercel.app](https://your-project.vercel.app)
 - ⚙️ **Backend API (Render):** [https://your-backend.onrender.com](https://your-backend.onrender.com)
-- 🌐 **Portfolio:** [https://your-portfolio.vercel.app](https://your-portfolio.vercel.app)
-- 🔗 **LinkedIn:** [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 *(Replace placeholders with actual deployed links)*
 
@@ -311,5 +309,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Dhanush AV**
 
-- 💻 **GitHub:** 
--
+- 💻 **GitHub:** [https://github.com/dhanush200322](https://github.com/dhanush200322)
